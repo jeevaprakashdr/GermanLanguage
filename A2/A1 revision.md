@@ -344,6 +344,20 @@ but these are some of the most common ones.
 | zumachen | to close |
 | zurückkommen | to come back |
 
+**Untrennbare Verbs:**
+
+The verbs starting with **be-, ent-, er-, ge-, ver- and zer-** are usually untrennbaren verbs.
+They donot get separated in the sentence and they are mostly irregular verbs.
+
+| Verb | Meaning |
+| :---: | :---: |
+|besuchen | to visit |
+|bezahlen | to pay |
+|verkaufen | to sell |
+|verstehen | to understand |
+|verbringen | to spend (time) |
+|vergleichen | to compare |
+
 
 ### <u>Imperative</u>
 
@@ -524,3 +538,41 @@ Although this mostly happens in writing, **sein, haben and werden** are the most
 |  | if there is a change of state (rare) | Der Hund **ist** gestorben. (sterben) | The dog died. <br/> Change from alive to dead. |
 | | for special verbs (rare) | Tom **ist** zu Hause geblieben. (bleiben) | Tom stayed at home. <br/> "bleiben" is one of very few special verbs. |
 | **haben** | for any other verbs! (common) | Ich **habe** einen Freund besucht. (besuchen) <br/> Er **hat** seine Mutter angerufen. (anrufen) | I visited a friend. <br/> He called his mother. |
+
+|Reguler Verbs| Partizip Perfekt|
+|:---:|:---|
+|leben| gelebt |
+|frühstücken| gefrühstückt |
+|hören| gehört |
+|haben| gehabt |
+|holen| geholt |
+|arbeiten| gearbeitet |
+|kaufen| gekauft |
+|verpassen| verpasst |
+|putzen| geputzt |
+|kochen| gekocht |
+|spielen| gespielt |
+|machen| gemacht |
+|lernen| gelernt |
+|tanzen| getanzt |
+|lachen| gelacht |
+|feiern| gefeiert |
+|bauen| gebaut |
+|heieraten| geheiratet |
+
+|Irreguler Verbs| Partizip Perfekt|
+|:---:|:---|
+|sein| gewesen |
+|fahren| gefahren |
+|sehen| gesehen |
+|nehmen| genommen |
+|essen| gegessen |
+|schlafen| geschlafen |
+|laufen| gelaufen |
+|sprechen| gesprochen |
+|wissen| gewusst |
+|bleiben| geblieben |
+|schreiben| geschrieben |
+|laufen| gelaufen |
+|geben| gegeben |
+|kommen| gekommen |

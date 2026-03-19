@@ -8,6 +8,7 @@
 * Verbs
    * Irregular verbs
    * Modal verbs
+   * Akkusative verbs
    * Dative verbs
    * Trennbaren verbs
 * Imperativ mit du,ihr und sie
@@ -278,26 +279,58 @@ but these are some of the most common ones.
 
 <br/>
 
+**Akkusative Verbs:**
+
+| Verb | Beispiel |More info|
+| ---| :---: | :---: | 
+|haben| Wir haben eine Party||
+|lernen|Ihr lernt Deutsch||
+|brauchen| Sie brauchen eine gut Idee||
+|essen|Er isst so viel Äpfel||
+|trinken|Ich trinke ein Tee||
+|nehmen|Sie nimmst ihre Tasche||
+|suchen|Er suchst seinen Hund||
+|kennen|Ich kenne ihn||
+|machen|Ich mache die Hausaufgaben.||
+|lieben|Sie liebt ihren Hund.||
+|besuchen|Ich besuche meinen Freund.||
+|besichtigen|Wir besichtigen das Museum.||
+|bestellen|Er bestellt einen Kaffee.||
+|bekommen|Ich bekomme einen Brief.||
+|mögen|Du magst den Film.||
+|putzen|Sie putzt das Fenster.||
+|kontrollieren|Der Lehrer kontrolliert die Hausaufgaben.||
+|vorbereiten|Ich bereite den Salat vor.||
+|waschen|Er wäscht das Auto.||
+|öffnen|Ich öffne die Tür.||
+|schließen|Sie schließt das Fenster.||
+|reparieren|Wir reparieren das Fahrrad.||
+|küssen|Er küsst seine Frau.||
+|werfen|Das Kind wirft den Ball.||
+|hassen|Wir hassen den Lärm.||
+
+<br/>
+
 **Dative Verbs:**               
 
 | Verb | Meaning |More info|
-| --- | --- |
-| helfen | to help |
-| danken | to thank |
+| :---: | :---: | :---: |
+| helfen | to help ||
+| danken | to thank ||
 | gefallen | to like |used with Uns/mir|
-| gehören | to belong to |
-| glauben | to believe |
-| schmecken | to taste |
-| passen | to fit |
-| antworten | to answer |
-| folgen | to follow |
-| gefallen | to like |
-| gehören | to belong to |
-| glauben | to believe |
-| schmecken | to taste |
-| passen | to fit |
-| antworten | to answer |
-| folgen | to follow |
+| gehören | to belong to ||
+| glauben | to believe ||
+| schmecken | to taste ||
+| passen | to fit ||
+| antworten | to answer ||
+| folgen | to follow ||
+| gefallen | to like ||
+| gehören | to belong to ||
+| glauben | to believe ||
+| schmecken | to taste ||
+| passen | to fit ||
+| antworten | to answer ||
+| folgen | to follow ||
 
 <br/>
 

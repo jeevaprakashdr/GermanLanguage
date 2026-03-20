@@ -10,6 +10,7 @@
    * Modal verbs
    * Akkusative verbs
    * Dative verbs
+      * Dative verb geschichte
    * Trennbaren verbs
 * Imperativ mit du,ihr und sie
 * Prepositions
@@ -332,6 +333,28 @@ but these are some of the most common ones.
 | passen | to fit ||
 | antworten | to answer ||
 | folgen | to follow ||
+
+<br/>
+
+**Dative verb geschichte**
+
+Die Geburtstagsgeschiste mit dativverben
+
+1. Ich gratuliere dir ganz herzlich, Julia
+2. Ich danke auch für die schönen Glückwünsche! 
+3. Wir geht es dir heute an deinem Geburtstag?
+    - Es geht mir super!
+4. Was wünschst du dir?
+    - Gute Freuende!
+5. Gehört das wirklich mir?
+6. Wow, der Schall gefällt mir total!
+7. Er passt mir auch perfekt.
+8. Der Kuchen schmeckt mir richtig gut!.
+9. Ich glaube, das viele Zucker schadet mir!
+10. Aua! meine Magen tut mir weh!
+11. Warte, ich helfe dir Max!
+12. Glaub mir, do sollst dich besser hinlegen!
+
 
 <br/>
 

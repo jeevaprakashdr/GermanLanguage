@@ -1,3 +1,4 @@
 *.pdf
 *.jpeg
 .DS_Store
+.vscode/settings.json

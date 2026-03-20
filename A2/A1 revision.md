@@ -283,6 +283,7 @@ but these are some of the most common ones.
 
 | Verb | Beispiel |More info|
 | ---| :---: | :---: | 
+|gratulieren| Ich gratuliere dir zum Geburtstag.||
 |haben| Wir haben eine Party||
 |lernen|Ihr lernt Deutsch||
 |brauchen| Sie brauchen eine gut Idee||

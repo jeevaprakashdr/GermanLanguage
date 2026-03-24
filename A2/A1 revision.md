@@ -194,21 +194,23 @@
 
 **Indefinitive Articles:**
 
-||M|F|N|
+|| Nominativ | Akkusative | Dativ |
 | :---: | :---: | :---: | :---: |
-|**Nominativ**| ein  | eine  | ein  |
-|**Akkusative**| einen  | eine  | ein  |
-|**Dativ**|     einem  | einer  | einem  |
+|**M**| ein  | einen  | einem  |
+|**F**| eine  | eine  | einer  |
+|**N**| ein  | ein  | einem  |
 
 </br>
 
 **Negative Articles:**
 
-||M|F|N|Plural|
-| :---: | :---: | :---: | :---: | :---: |
-|**Nominativ**| kein  | keine  | kein  | keine |
-|**Akkusative**| keinen  | keine  | kein  | keine |
-|**Dativ**|     keinem  | keiner  | keinem  | keinen |
+|| Nominativ | Akkusative | Dativ |
+| :---: | :---: | :---: | :---: |
+|**M**| kein  | keinen  | keinem  |
+|**F**| keine  | keine  | keiner  |
+|**N**| kein  | kein  | keinem  |
+|**Plural**| keine  | keine  | keinen  |
+
 
 ### <u>Nominative, Akkusativ und Dativ Personal pronouns</u>
 
